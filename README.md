@@ -20,6 +20,12 @@ By combining data-driven filter generation with real-time adaptation, the propos
 
 ---
 
+## Dataset
+
+The dataset used in this work is publicly available on Zenodo:
+
+🔗 https://doi.org/10.5281/zenodo.18361957
+
 ## Acknowledgements
 
 This work is inspired by the following open-source repositories:
