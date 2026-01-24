@@ -11,7 +11,7 @@ This work proposes a **hybrid deep learning and adaptive filtering framework** t
 The system consists of two main stages:
 
 - **GFANC (Deep Learning Stage)**  
-  A dataset of sub-control filters is generated offline. A 1D convolutional neural network (CNN) dynamically selects or generates the most suitable control filter according to the incoming noise.
+  A dataset of sub-control filters is generated offline. A 1D convolutional neural network (CNN) generates the most suitable weights to design the control filter according to the incoming noise.
 
 - **THFxNLMS (Adaptive Stage)**  
   The CNN-generated filter is further optimized online using an adaptive filtering algorithm to compensate for modeling errors and environmental variations.
