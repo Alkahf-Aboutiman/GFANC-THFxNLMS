@@ -2,6 +2,8 @@
 
 This repository provides the implementation of the hybrid active noise control (ANC) algorithm **GFANC-THFxNLMS**.
 
+For further details on the proposed method and its performance, please refer to the [associated research paper](PAPER_LINK).
+
 ## Overview
 
 Conventional ANC systems usually assume linear signal paths. However, in real applications, nonlinear distortions—especially those introduced by loudspeakers—can significantly degrade performance.
