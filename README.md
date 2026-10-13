@@ -2,7 +2,7 @@
 
 This repository provides the implementation of the hybrid active noise control (ANC) algorithm **GFANC-THFxNLMS**.
 
-For further details on the proposed method and its performance, please refer to the [associated research paper](PAPER_LINK).
+For further details on the proposed method and its performance, please refer to the [associated research paper](https://www.sciencedirect.com/science/article/pii/S0957417426001612).
 
 ## Overview
 
